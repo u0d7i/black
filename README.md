@@ -1,3 +1,6 @@
+# Black
+1x1 pixel size black PNG image
+
 ```
 $ convert -size 1x1 xc:rgb\(0,0,0\) black.png
 
